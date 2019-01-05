@@ -1,0 +1,40 @@
+.services-box {
+    float: left;
+    width: 100%;
+    border: 2px solid #c0c0c0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    padding: 30px 17px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 30px;
+}
+.services-box:hover {background:#ea7900; color:#fff;}
+.icon-box {
+   
+/*    display: inline-block;
+    border: 1px solid #c0c0c0;
+    width: 140px;
+    height: 140px;
+    border-radius: 100%;
+    text-align: center;
+    padding: 20px 0 0 0;
+    margin-bottom: 10px;
+    background: #fff;
+    position: relative;*/
+}
+.text-box {
+    float: left;
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+.text-box h6 {font-size: 16px; padding-top: 5px;}
+.text-box h6 a{}
+.text-box h3 a {color:#000;}
+
+.icon-box img {
+    width: 90px;
+    height: 90px;
+}

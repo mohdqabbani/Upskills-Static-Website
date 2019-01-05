@@ -1,0 +1,19 @@
+
+/* Fonts */
+@import url('../../../css-2.css');
+@import url('../../../css-3.css');
+
+body {
+    font-family:'Hind', sans-serif;
+    font-weight:400;
+}
+.alt-font {
+    font-family:'Pacifico', cursive;
+}
+
+.main-font {
+    font-family:'Hind', sans-serif;
+}
+.nav>li{
+    font-family:'Hind', sans-serif !important;
+}
